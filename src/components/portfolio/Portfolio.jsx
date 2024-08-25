@@ -10,8 +10,8 @@ import Card from '../card/Card';
 
 const Portfolio = () => {
    const description1 = "The ePay Wallet Payment Application aims to provide a robust and user-friendly platform for managing digital transactions";
-   const description2 = "This project involves building a fully functional portfolio website using React.js. The website will showcase your skills, projects, and contact us information to customer or hr.";
-   const description3 = "The Automobile Service Website on MERN Stack is a comprehensive platform designed to streamline and enhance the experience of automobile owners in managing their vehicles' service needs.";
+   const description2 = "The Automobile Service Website on MERN Stack is a comprehensive platform designed to streamline and enhance the experience of automobile owners in managing their vehicles' service needs.";
+   const description3 = "This project involves building a fully functional portfolio website using React.js. The website will showcase your skills, projects, and contact us information to customer or hr.";
   return (
    <section id="portfolio">
     <h2 className="portfolioTitle">My Projects</h2><br/>
